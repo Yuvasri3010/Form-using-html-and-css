@@ -1,0 +1,29 @@
+body {
+  font-family: 'Times New Roman';
+  margin: 20px;
+  font-size: 24px;
+  background-color:violet;
+
+}
+
+form {
+  margin-bottom: 30px;
+}
+
+table {
+  border-bottom-color: green;
+  width: 100%;
+}
+
+table, th, td {
+  border: 2px solid #ddd;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color:white;
+}
